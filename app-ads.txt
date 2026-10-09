@@ -1,0 +1,3 @@
+# Pocket Lantern Games — authorized ad sellers.
+# The AdMob publisher line is added here once the AdMob account exists:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
